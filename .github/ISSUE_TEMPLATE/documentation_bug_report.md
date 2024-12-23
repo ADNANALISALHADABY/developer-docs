@@ -1,8 +1,10 @@
 ---
-name: "Bug report"
+name: Bug report
 about: Create a bug report to help improve the Aptos Developers' Website
 title: "[Docs]"
-labels: ["documentation"]
+labels: documentation
+assignees: ''
+
 ---
 
 # Aptos Documentation Issue
